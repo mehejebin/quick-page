@@ -92,19 +92,5 @@ margin: 36px 0 0 0;
 .complete-child p{
     color: rgb(76, 207, 207);
 }
-.img{
-    display: flex;
-    margin: auto;
-    max-width: 90%;
-
-}
-.col{ 
-width: 33%;
-float: left;
-}
-.col-red{
-background-color: rgba(235, 154, 88, 0.105), rgb(99, 99, 196),rgb(167, 167, 58)
-}
-.col img{}
-.col h3{}
-.col p{}
+Github code link:
+live website link:
